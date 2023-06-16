@@ -1,23 +1,23 @@
 This repository contains the projects completed in week 4 and week 5 of CSC6301 at Merrimack College (as of 06/16/23).
 
-**Table of Contents**
+## **Table of Contents**
 - Project Description
 - Installation
 - Usage
 - Contributing
 - Project Description
 
-**Module 4:**
+## **Module 4:**
 Input Linked List
 
 Description: Program which utilizes java collections to take an integer input from a scanner object, storing the data into the linked list and printing out the sorted linked list. This program utilizes the java collections framework.
 
-**Module 5:**
+## **Module 5:**
 Input Stack
 
 Description: Program which utilizes java collections to take an integer input from a scanner object, storing the data into the stack and printing out the sorted stack. This program utilizes the collections framework.
 
-**Installation**
+## **Installation**
  1. Clone this repository to your local machine using the following command: git clone 
  https://github.com/aHastingss/CSC6301_Week6
 
@@ -25,13 +25,13 @@ Description: Program which utilizes java collections to take an integer input fr
 
  3. There are no dependencies.
 
-**Usage**
+## **Usage**
 To use the Week6 project, follow these instructions:
 
 - Select the project you would like to run, and then hit run.
 - The projects will either sort a stack or sort a linked list.
 
-**Contributing**
+## **Contributing**
 Contributions are encouraged. To contribute please follow the steps below.
 
  - Fork this repository.
