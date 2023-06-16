@@ -10,12 +10,24 @@ This repository contains the projects completed in week 4 and week 5 of CSC6301 
 ## **Module 4: Using Java Docs for Software Reuse**
 inputLinkedList.java
 
-Description: Program which utilizes java collections to take an integer input from a scanner object, storing the data into the linked list and printing out the sorted linked list. This program utilizes the java collections framework.
+### Description: 
+Program which utilizes java collections to take an integer input from a scanner object, storing the data into the linked list and printing out the sorted linked list. This program utilizes the java collections framework.
+
+### Dependencies:
+The program above utilizes the following dependencies.
+- ``` import java.util.Scanner ```
+- ``` import java.util.Stack ```
 
 ## **Module 5: Software Development Lifecycle**
 inputStack.java
 
-Description: Program which utilizes java collections to take an integer input from a scanner object, storing the data into the stack and printing out the sorted stack. This program utilizes the collections framework.
+### Description: 
+Program which utilizes java collections to take an integer input from a scanner object, storing the data into the stack and printing out the sorted stack. This program utilizes the collections framework.
+
+### Dependencies:
+The program above utilizes the following dependencies.
+- ``` import java.util.Scanner ```
+- ``` import java.util.Stack ```
 
 ## **Installation**
  1. Clone this repository to your local machine using the following command: git clone 
@@ -23,7 +35,6 @@ Description: Program which utilizes java collections to take an integer input fr
 
  2. Change into the project directory: cd CSC6301_Week6
 
- 3. There are no dependencies.
 
 ## **Usage**
 To use the Week6 project, follow these instructions:
