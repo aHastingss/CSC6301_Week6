@@ -1,19 +1,19 @@
 This repository contains the projects completed in week 4 and week 5 of CSC6301 at Merrimack College (as of 06/16/23).
 
 ## **Table of Contents**
-- Project Description
+- Module 4: Using Java Docs for Software Reuse
+- Module 5: Software Development Lifecycle
 - Installation
 - Usage
 - Contributing
-- Project Description
 
 ## **Module 4: Using Java Docs for Software Reuse**
-Input Linked List
+inputLinkedList.java
 
 Description: Program which utilizes java collections to take an integer input from a scanner object, storing the data into the linked list and printing out the sorted linked list. This program utilizes the java collections framework.
 
 ## **Module 5: Software Development Lifecycle**
-Input Stack
+inputStack.java
 
 Description: Program which utilizes java collections to take an integer input from a scanner object, storing the data into the stack and printing out the sorted stack. This program utilizes the collections framework.
 
