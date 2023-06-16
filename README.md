@@ -7,7 +7,7 @@ Table of Contents
 - Contributing
 - Project Description
 
-Module 4:
+%% Module 4:
 Title: Sorted Linked List
 
 Description: Program which utilizes java collections to take an integer input from a scanner object, storing the data into the linked list and printing out the sorted linked list. This program utilizes the java collections framework.
